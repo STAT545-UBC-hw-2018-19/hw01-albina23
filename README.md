@@ -33,7 +33,6 @@ summary(gapminder)
 
 Specifically, I will be analyzying the <a href="https://www.gapminder.org/data/">gapminder dataset</a>. 
 
-Give this a decent name, such as hw01_gapminder.Rmd (which will produce a companion file, hw01_gapminder.md).
 
 ## Author Description
 I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC. I like maps!
