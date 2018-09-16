@@ -19,5 +19,20 @@ At the end of the term, we should be able to:
 3. *Coding in R through data exploration*
 4. *Generating output from (.Rmd) source*
 
-## Author
+## Author Description
 I am *Albina Gibadullina*, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
+
+### Research specialty
+
+> "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."
+>
+> Karl Marx, 1888
+
+### Educational background
+I have completed Bachelor of Commerce at the Sauder School of Business, UBC in 2017.
+
+### How I am usually spending my free time
+
+![](https://giphy.com/gifs/homer-simpson-the-simpsons-reaction-q1mHcB8wOCWf6)
+
+### Contact information
