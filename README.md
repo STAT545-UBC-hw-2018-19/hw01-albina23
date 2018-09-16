@@ -33,6 +33,6 @@ I have completed Bachelor of Commerce at the Sauder School of Business, UBC in 2
 
 ### How I am usually spending my free time
 
-![](https://giphy.com/gifs/homer-simpson-the-simpsons-reaction-q1mHcB8wOCWf6)
+![](https://media.giphy.com/media/IW7oZF4MGJsfS/giphy.gif)
 
 ### Contact information
