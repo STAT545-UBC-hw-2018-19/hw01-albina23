@@ -2,7 +2,7 @@
 
 ## Course Description
 
-**STAT545A** is a course on <a href="http://stat545.com/">Explanatory Data Analysis</a>. It is being taught at the <a href="https://www.ubc.ca">University of British Columbia</a> and is geared towards *graduate students*. Our Vancouver campus is located on the unceded, ancestral and traditional territories of the <a href="https://www.musqueam.bc.ca/">*Musqueam nation*</a>. 
+**STAT545A** is a course on <a href="http://stat545.com/">Explanatory Data Analysis</a>. It is being taught at the <a href="https://www.ubc.ca">**University of British Columbia**</a> and is geared towards *graduate students*. Our Vancouver campus is located on the unceded, ancestral and traditional territories of the <a href="https://www.musqueam.bc.ca/">*Musqueam nation*</a>. 
 
 At the end of the term, we should be able to:
 - **Work with data**
