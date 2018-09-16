@@ -37,6 +37,10 @@ summary(gapminder)
 I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
 
 
+#### **Here is my all-time favorite comic**
+![alt text](http://kiriakakis.net/wp-content/uploads/2012/08/Mused-park-04.jpg)
+
+
 #### Research specialty
 I am specializing in Political Economy, Critical Finance Studies and Financial Geography. Here is an all too known quote by Marx:
 
@@ -56,3 +60,4 @@ I grew up in Kazan, a city in central Russia. In 2017, I completed Bachelor of C
 
 #### Contact information
 If you dare, you can follow me on <a href="https://twitter.com/albina_gib">**Twitter**</a>.
+
