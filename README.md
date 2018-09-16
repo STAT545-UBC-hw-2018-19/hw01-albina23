@@ -37,14 +37,14 @@ summary(gapminder)
 I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC. I like maps!
 ![alt text](http://s3.amazonaws.com/libapps/accounts/114989/images/colorful-1974699_1920.png)
 
-#### Research specialty
+### Research specialty
 I am specializing in Political Economy, Critical Finance Studies and Financial Geography. Here is an all too known quote by Marx:
 
 > "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."
 >
 > Karl Marx, 1888
 
-#### How I am usually spending my free time
+### How I am usually spending my free time
 
 ![](https://media.giphy.com/media/IW7oZF4MGJsfS/giphy.gif)
 
@@ -55,6 +55,6 @@ Name | Difficulty | Time
 [The Chief](https://www.vancouvertrails.com/trails/stawamus-chief/) | Difficult | 6 hours
 [Deep Cove](https://www.vancouvertrails.com/trails/quarry-rock/) | Easy | 1.5 hours
 
-#### Contact information
+### Contact information
 If you dare, you can follow me on <a href="https://twitter.com/albina_gib">**Twitter**</a>.
 
