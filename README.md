@@ -35,9 +35,7 @@ summary(gapminder)
 
 ## Author Description
 I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
-
-
-#### **Here is my all-time favorite comic**
+Here is my all-time favorite comic
 ![alt text](http://kiriakakis.net/wp-content/uploads/2012/08/Mused-park-04.jpg)
 
 
