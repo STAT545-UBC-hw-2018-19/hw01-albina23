@@ -34,7 +34,7 @@ summary(gapminder)
 
 
 ## Author Description
-I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
+I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC. I like maps!
 ![alt text](http://s3.amazonaws.com/libapps/accounts/114989/images/colorful-1974699_1920.png)
 
 #### Research specialty
