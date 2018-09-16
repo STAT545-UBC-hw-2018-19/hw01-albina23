@@ -31,7 +31,7 @@ summary(gapminder)
 3. *Coding in R through data exploration*
 4. *Generating output from (.Rmd) source*
 
-Specifically, I will be analyzying the <a href="https://www.gapminder.org/data/">gapminder dataset</a>. 
+Specifically, I will be analyzying the <a href="https://www.gapminder.org/data/">**gapminder** dataset</a>. 
 
 
 ## Author Description
