@@ -35,9 +35,7 @@ summary(gapminder)
 
 ## Author Description
 I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
-Here is my all-time favorite comic
-![alt text](http://kiriakakis.net/wp-content/uploads/2012/08/Mused-park-04.jpg)
-
+![alt text](http://s3.amazonaws.com/libapps/accounts/114989/images/colorful-1974699_1920.png)
 
 #### Research specialty
 I am specializing in Political Economy, Critical Finance Studies and Financial Geography. Here is an all too known quote by Marx:
@@ -45,11 +43,6 @@ I am specializing in Political Economy, Critical Finance Studies and Financial G
 > "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."
 >
 > Karl Marx, 1888
-
-
-#### Background
-I grew up in Kazan, a city in central Russia. In 2017, I completed Bachelor of Commerce at the Sauder School of Business, UBC.
-
 
 #### How I am usually spending my free time
 
