@@ -48,6 +48,12 @@ I am specializing in Political Economy, Critical Finance Studies and Financial G
 
 ![](https://media.giphy.com/media/IW7oZF4MGJsfS/giphy.gif)
 
+### Recommended hiking trails around Vancouver
+Name | Difficulty | Time
+:---------|:---------|:------------------
+[Joffre Lakes](https://www.vancouvertrails.com/trails/joffre-lakes/) | Intermediate | 4 hours
+[The Chief](https://www.vancouvertrails.com/trails/stawamus-chief/) | Difficult | 6 hours
+[Deep Cove](https://www.vancouvertrails.com/trails/quarry-rock/) | Easy | 1.5 hours
 
 #### Contact information
 If you dare, you can follow me on <a href="https://twitter.com/albina_gib">**Twitter**</a>.
