@@ -8,7 +8,7 @@ At the end of the term, we should be able to:
 - **Work with data**
     + *Including exploring, visualizing, and analyzing data*
 - **Make everything shareable**
-    + *Specifically, we will be using <a href="https://www.r-project.org/">R language</a> for that*
+    + *Specifically, we will be using <a href="https://www.r-project.org/">R language</a>*
 
 Here is an example of code we have completed in Week 2
 
