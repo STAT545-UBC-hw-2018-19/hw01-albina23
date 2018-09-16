@@ -33,17 +33,21 @@ summary(gapminder)
 I am *Albina Gibadullina*, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
 
 ### Research specialty
-I am specializing in Political Economy, Critical Finance Studies and Financial Geography. 
+I am specializing in Political Economy, Critical Finance Studies and Financial Geography. Here is an all too known quote by Marx:
 
 > "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."
 >
 > Karl Marx, 1888
 
-### Educational background
-I have completed Bachelor of Commerce at the Sauder School of Business, UBC in 2017.
+### Background
+I grew up in Kazan, a city in central Russia. In 2017, I completed Bachelor of Commerce at the Sauder School of Business, UBC.
+
+Here is where my hometown is located:
+
 
 ### How I am usually spending my free time
 
 ![](https://media.giphy.com/media/IW7oZF4MGJsfS/giphy.gif)
 
 ### Contact information
+If you dare you can follow me on <a href="https://twitter.com/albina_gib">**Twitter**</a>.
