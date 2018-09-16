@@ -30,7 +30,7 @@ summary(gapminder)
 4. *Generating output from (.Rmd) source*
 
 ## Author Description
-I am *Albina Gibadullina*, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
+I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
 
 #### Research specialty
 I am specializing in Political Economy, Critical Finance Studies and Financial Geography. Here is an all too known quote by Marx:
@@ -41,9 +41,6 @@ I am specializing in Political Economy, Critical Finance Studies and Financial G
 
 #### Background
 I grew up in Kazan, a city in central Russia. In 2017, I completed Bachelor of Commerce at the Sauder School of Business, UBC.
-
-Here is where my hometown is located:
-
 
 #### How I am usually spending my free time
 
