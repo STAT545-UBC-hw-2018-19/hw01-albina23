@@ -20,6 +20,8 @@ library(gapminder)
 summary(gapminder)
 ```
 
+
+
 ## Assignment Description
 
 **This assignment aims to do the following**:
@@ -29,8 +31,11 @@ summary(gapminder)
 3. *Coding in R through data exploration*
 4. *Generating output from (.Rmd) source*
 
+
+
 ## Author Description
 I am ***Albina Gibadullina***, a first-year MA student in the <a href="https://www.geog.ubc.ca/">**Department of Geography**</a> at UBC.
+
 
 #### Research specialty
 I am specializing in Political Economy, Critical Finance Studies and Financial Geography. Here is an all too known quote by Marx:
@@ -39,12 +44,15 @@ I am specializing in Political Economy, Critical Finance Studies and Financial G
 >
 > Karl Marx, 1888
 
+
 #### Background
 I grew up in Kazan, a city in central Russia. In 2017, I completed Bachelor of Commerce at the Sauder School of Business, UBC.
+
 
 #### How I am usually spending my free time
 
 ![](https://media.giphy.com/media/IW7oZF4MGJsfS/giphy.gif)
+
 
 #### Contact information
 If you dare, you can follow me on <a href="https://twitter.com/albina_gib">**Twitter**</a>.
