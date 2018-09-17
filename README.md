@@ -3,9 +3,10 @@
 
 ## Assignment Description
 
-In this assignment, I will be exploring and analyzing the <a href="https://www.gapminder.org/data/">**Gapminder** dataset</a>. Specifically, **this assignment aims to do the following**:
+In this assignment, I will be exploring and analyzing the <a href="https://www.gapminder.org/data/">**Gapminder** dataset</a>. 
+Specifically, in *this assignment* I will do the following:
 
-1. Setting up access to the dataset
+1. Setting up access to the gapminder dataset
 2. Exploring data frames
 3. Exploring variables and their characteristics
     - Individual statistics
