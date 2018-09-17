@@ -1,0 +1,158 @@
+---
+title: "Gapminder Data Exploration"
+output: 
+    html_document:
+        theme: cerulean
+        toc: true
+        keep_md: true
+
+---
+## Setting up access to the dataset
+
+List all the available datasets in R
+```{r}
+data(package = .packages(all.available = TRUE))
+```
+
+I will be analyzing gapminder dataset. First, install the `gapminder` R package using this command: install.packages('gapminder')
+
+If you already have the package installed, access the package
+
+```{r}
+library(gapminder)
+```
+
+## Exploring of data frames
+
+Previewing dataset with the head function
+```{r}
+head(gapminder)
+```
+
+Explore some of its properties
+
+Provide a summary of variables and its quantitative characteristics
+```{r}
+summary(gapminder)
+```
+
+Display the internal structure to the dataset (an alternative to summary)
+```{r}
+str(gapminder)
+```
+
+Measure the number of rows
+```{r}
+nrow(gapminder)
+```
+
+Measure the number of columns
+```{r}
+ncol(gapminder)
+```
+
+Alternatively, you can find dataset's dimensions
+```{r}
+dim(gapminder)
+```
+
+## Exploring Variables
+
+The dataset consists of panel data: 3 variables (life expectancy, population and GDP per capita) are recorded from 1952 to 2007 for each country and the corresponding continent (some data is missing). 
+
+### Individual statistics
+We can measure various summary statistics (means, medians, max/min, etc.) for our variables by adding the variable name after $.
+
+Find mean, max, min, standard deviation, and variance for the life expectancy variable
+```{r}
+mean(gapminder$lifeExp)
+max(gapminder$lifeExp)
+min(gapminder$lifeExp)
+sd(gapminder$lifeExp)
+var(gapminder$lifeExp)
+```
+
+### Adding If statements
+
+If you wanted to know whether the GDP per capita for any country in any given year has ever exceeded 110,000 USD, you can add the following if statement
+```{r}
+if (max(gapminder$gdpPercap) > 110000){
+  print('The GDP per capita for one of the countries has exceeded 110,000 USD.')
+}else{
+  print('The GDP per capita for any of the countries has never exceeded 110,000 USD.')
+}
+```
+
+### Printing desired outcomes
+You can print any of the selected summary statistics
+
+```{r}
+print('The standard deviation of the life expectancy variable is')
+print(sd(gapminder$lifeExp))
+```
+
+### Group statistics
+We can find various summary statistics (means, medians, max/min, etc.) for different groups using the 'aggregate' function.
+
+Find the average population size of a country in a given year
+```{r}
+aggregate(pop ~ year, gapminder, mean)
+```
+
+Find max GDP per capita by continent
+```{r}
+aggregate(gdpPercap ~ continent, gapminder, max)
+```
+
+Find median life expectancy for each country across all years
+```{r}
+aggregate(lifeExp ~ country, gapminder, median)
+```
+
+
+### Adding selection condtions
+
+Download dplyr package to help us sort, summarize and filter tabular data using this command: install.packages('dplyr')
+
+If the package is already installed, get access to it
+```{r}
+library(dplyr)
+```
+
+I have an option to only work with the selected subgroups. For instance, I want to find an average population of a Europen country in 2005. Notice how you can add multiple conditions here.
+```{r}
+    filter(gapminder, continent == "Europe", year == 2005)
+    MeanPopulation <- mean(gapminder$pop)
+    print(MeanPopulation)
+```
+
+## Visualizing data
+
+
+### Simple plots
+We can visualize the relationships between these variables. 
+
+Here is a scatterplot between population size (on the x-axis) and GDP per capita (on the y-axis)
+```{r}
+plot(gapminder$pop, gapminder$gdpPercap)
+```
+
+Here is a scatterplot between time (measured in years on the x-axis) and GDP per capita (on the y-axis)
+```{r}
+plot(gapminder$year, gapminder$gdpPercap)
+```
+
+### Complex plots
+
+If we want to be able to capture more complexity in our groups, we need to install the ggplot package using this command: install.packages('ggplot2')
+
+If the package is already installed, get access to it
+```{r}
+library(ggplot2)
+```
+
+Here we can visualize various continents by using colors.
+```{r}
+ggplot(gapminder, aes(x=pop, y=gdpPercap, color=continent))+geom_point()+ xlab("Country population size") + 
+  ylab("GDP per capita") 
+```
