@@ -1,5 +1,25 @@
 # Homework 1 Submission for STAT545A
 
+
+## Assignment Description
+
+In this assignment, I will be exploring and analyzing the <a href="https://www.gapminder.org/data/">**Gapminder** dataset</a>. 
+
+**Specifically, in *this assignment* I will do the following:**
+
+1. *Setting up access to the gapminder dataset*
+2. *Exploring data frames*
+3. *Exploring variables and their characteristics*
+    - Individual statistics
+    - Adding If statements
+    - Printing desired outcomes
+    - Group statistics
+    - Adding selection condtions
+4. *Visualizing data*
+    - Simple plots
+    - Complex plots
+
+
 ## Course Description
 
 **STAT545A** is a course on <a href="http://stat545.com/">Explanatory Data Analysis</a>. It is being taught at the <a href="https://www.ubc.ca">**University of British Columbia**</a> and is geared towards *graduate students*. Our Vancouver campus is located on the unceded, ancestral and traditional territories of the <a href="https://www.musqueam.bc.ca/">*Musqueam nation*</a>. 
@@ -22,16 +42,7 @@ summary(gapminder)
 
 
 
-## Assignment Description
 
-**This assignment aims to do the following**:
-
-1. *Developing of a simple repository with GitHub; perhaps git too*
-2. *Authoring in GitHub-flavoured markdown and R markdown*
-3. *Coding in R through data exploration*
-4. *Generating output from (.Rmd) source*
-
-Specifically, I will be analyzying the <a href="https://www.gapminder.org/data/">**Gapminder** dataset</a>. 
 
 
 ## Author Description
